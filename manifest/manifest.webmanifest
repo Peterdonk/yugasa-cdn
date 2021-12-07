@@ -2,8 +2,8 @@
     "theme_color": "#6800a1",
     "background_color": "#fff",
     "display": "standalone",
-    "scope": "/pwa/manifest",
-    "start_url": "/pwa/manifest",
+    "scope": "/",
+    "start_url": "/",
     "name": "Yugasa Bot Admin",
     "short_name": "Yugasa Bot",
     "icons": [
