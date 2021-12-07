@@ -1,0 +1,31 @@
+{
+    "theme_color": "#6800a1",
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "/pwa/manifest",
+    "start_url": "/pwa/manifest",
+    "name": "Yugasa Bot Admin",
+    "short_name": "Yugasa Bot",
+    "icons": [
+        {
+            "src": "/pwa/manifest/pwa.png",
+            "sizes": "192x192",
+            "type": "imagepwa/manifest/png"
+        },
+        {
+            "src": "/pwa/manifest/pwa.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/pwa/manifest/pwa.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/pwa/manifest/pwa.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
