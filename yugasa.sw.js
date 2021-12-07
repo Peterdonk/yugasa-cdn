@@ -4,7 +4,7 @@ const cacheName = 'v2';
 
 self.addEventListener('load', function() {
 		navigator.serviceWorker
-    .register('./pwa/yugasa.sw.js')
+    .register('https://cdn.jsdelivr.net/gh/Peterdonk/yugasa-cdn@main/yugasa.sw.js')
     .then(function() { alert('Service Worker Registered'); })
     
     .catch(function (err) {
