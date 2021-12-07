@@ -8,22 +8,22 @@
     "short_name": "Yugasa Bot",
     "icons": [
         {
-            "src": "/pwa/manifest/pwa.png",
+            "src": "https://cdn.jsdelivr.net/gh/Peterdonk/yugasa-cdn@main/manifest/icon-192x192.png",
             "sizes": "192x192",
-            "type": "imagepwa/manifest/png"
+            "type": "image/png"
         },
         {
-            "src": "/pwa/manifest/pwa.png",
+            "src": "https://cdn.jsdelivr.net/gh/Peterdonk/yugasa-cdn@main/manifest/icon-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
         },
         {
-            "src": "/pwa/manifest/pwa.png",
+            "src": "https://cdn.jsdelivr.net/gh/Peterdonk/yugasa-cdn@main/manifest/icon-384x384.png",
             "sizes": "384x384",
             "type": "image/png"
         },
         {
-            "src": "/pwa/manifest/pwa.png",
+            "src": "https://cdn.jsdelivr.net/gh/Peterdonk/yugasa-cdn@main/manifest/icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
